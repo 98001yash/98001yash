@@ -16,9 +16,9 @@
 - [**SkillVibe LMS**](https://github.com/your-username/skillvibe-lms) - Microservices-based Learning Management System
 - [**Real-Time Chat App**](https://github.com/your-username/chat-app) - WebSockets-powered chat with video calling
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Yash's GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark](https://github.com/98001yash))
 
-## 🌎 Connect With Me
+##  Connect With Me
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Buddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-chauhan-a415b6246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
