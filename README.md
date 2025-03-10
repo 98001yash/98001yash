@@ -13,7 +13,7 @@
 - 🔹 **DevOps**: Docker, Kubernetes, AWS
 
 ### 📫 How to reach me:
-- **Email**: yashchauhan@example.com
+- **Email**: yashchauhan.gaya@gmail.com
 - **LinkedIn**: [Yash Chauhan](https://www.linkedin.com/in/yashchauhan)
 - **GitHub**: [98001yash](https://github.com/98001yash)
 
