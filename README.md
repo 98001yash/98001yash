@@ -55,9 +55,14 @@ I enjoy building large-scale, real-world applications that have a significant im
 ---
 
 # 📊 GitHub Stats
+# 📊 GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=98001yash&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF7F50&ring=FF4500&currStreakLabel=FFD700&background=0D1117&currStreakNum=FFFFFF&sideNums=FF7F50&sideLabels=FFFFFF&dates=AAAAAA&stroke=000000&cache_bust=3)
-![](https://streak-stats.demolab.com?user=98001yash&theme=dark&hide_border=false&t=2)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=98001yash&theme=dark&hide_border=false&layout=compact&t=3)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=98001yash&show_icons=true&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=98001yash&layout=compact&theme=radical&hide_border=false)
+
 
 ---
 
