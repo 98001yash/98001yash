@@ -71,8 +71,7 @@ My contributions focus on **backend architecture improvements, configuration mod
 - PR received **10 review comments**, indicating active discussion and review
 
 🔗 **Pull Request:**  
-https://github.com/spring-petclinic/spring-petclinic-microservices-config/pull/8 
-*(replace XXX with actual PR number)*
+https://github.com/spring-petclinic/spring-petclinic-microservices-config/pull/8
 
 ---
 
@@ -105,11 +104,6 @@ https://github.com/apache/dubbo-spring-boot-project
 - 🏗 **9 repositories created**
 - 🔁 **Multiple pull requests** across community and Apache projects
 - 🧠 Strong focus on **Spring Boot, API Gateway, and Microservices architecture**
-
----
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=98001yash&color=blue)
 
 ---
 
