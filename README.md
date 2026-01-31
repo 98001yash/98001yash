@@ -54,20 +54,3 @@ I enjoy building large-scale, real-world applications that have a significant im
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=98001yash&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=98001yash&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=98001yash&layout=compact&theme=radical&hide_border=true)
-
----
-
-### 📌 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=98001yash&theme=react-dark)
-
----
-
-![](https://komarev.com/ghpvc/?username=98001yash&color=blue)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   this is my complete one 
