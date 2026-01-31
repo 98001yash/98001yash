@@ -55,20 +55,19 @@ I enjoy building large-scale, real-world applications that have a significant im
 ---
 
 # 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=98001yash&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF7F50&ring=FF4500&currStreakLabel=FFD700&background=0D1117&currStreakNum=FFFFFF&sideNums=FF7F50&sideLabels=FFFFFF&dates=AAAAAA&stroke=000000&cache_bust=3)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=98001yash&show_icons=true&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=98001yash&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=98001yash&layout=compact&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=98001yash&show_icons=true&theme=radical&hide_border=true)
 
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=98001yash&limit=5&theme=dark&combine_all_yearly_contributions=true&t=4)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=98001yash&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=98001yash&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📌 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=98001yash&theme=react-dark)
 
+---
+
+![](https://komarev.com/ghpvc/?username=98001yash&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   this is my complete one 
