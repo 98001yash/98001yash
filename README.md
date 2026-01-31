@@ -53,4 +53,63 @@ I enjoy building large-scale, real-world applications that have a significant im
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 ---
+# 🌍 Open Source Contributions & Pull Requests
+
+I actively contribute to open source projects, primarily in the **Spring Boot, Microservices, and Distributed Systems** ecosystem.  
+My contributions focus on **backend architecture improvements, configuration modernization, and system reliability**.
+
+---
+
+## 🚀 Featured Open Source Contributions
+
+### 🔹 Spring PetClinic Microservices
+**Repository:** `spring-petclinic/spring-petclinic-microservices-config`  
+**Contribution:** Replaced legacy **Zuul routing** with **Spring Cloud Gateway**
+
+- Migrated deprecated Zuul routes to modern Spring Cloud Gateway configuration
+- Improved API Gateway maintainability and future compatibility
+- PR received **10 review comments**, indicating active discussion and review
+
+🔗 **Pull Request:**  
+https://github.com/spring-petclinic/spring-petclinic-microservices-config/pull/8 
+*(replace XXX with actual PR number)*
+
+---
+
+### 🔹 Spring Boot Microservices Series (Community Project)
+**Repository:** `rajadilipkolli/spring-boot-microservices-series-v2`
+
+- Opened multiple pull requests for backend and configuration improvements
+- Worked on microservices structure and related fixes
+
+🔗 **Repository:**  
+https://github.com/rajadilipkolli/spring-boot-microservices-series-v2
+
+---
+
+### 🔹 Apache Dubbo – Spring Boot Project
+**Repository:** `apache/dubbo-spring-boot-project`
+
+- Contributed pull requests to an **Apache open source project**
+- Gained experience working with large-scale, enterprise-grade codebases
+- Followed Apache contribution and review standards
+
+🔗 **Repository:**  
+https://github.com/apache/dubbo-spring-boot-project
+
+---
+
+## 📌 Contribution Summary
+
+- 🧩 **241+ commits** across **8 repositories**
+- 🏗 **9 repositories created**
+- 🔁 **Multiple pull requests** across community and Apache projects
+- 🧠 Strong focus on **Spring Boot, API Gateway, and Microservices architecture**
+
+---
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=98001yash&color=blue)
+
+---
 
