@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Yash Chauhan (aka Buddy)  
-Backend Developer | Cybersecurity Enthusiast | DevOps Learner | Blockchain Developer  
+Backend Developer | DevOps Learner
 
 I am a passionate backend developer specializing in **Spring Boot microservices, Kafka, Redis, PostgreSQL, and GraphDB**.  
 I enjoy building large-scale, real-world applications that have a significant impact.  
@@ -9,10 +9,7 @@ I enjoy building large-scale, real-world applications that have a significant im
 🔹 **Spring Boot Microservices:** Building scalable, high-performance backends with event-driven architecture.  
 🔹 **Distributed Systems:** Kafka, Redis, and WebSockets for real-time communication.  
 🔹 **Database Management:** PostgreSQL, MySQL, and GraphDB (Neo4j) for structured and unstructured data.  
-🔹 **Security & API Protection:** OWASP Top 10, secure coding, and authentication mechanisms (JWT, OAuth2, 2FA).  
 🔹 **DevOps & Cloud:** Docker, Kubernetes, Terraform, CI/CD pipelines, and AWS.  
-🔹 **Cybersecurity & Ethical Hacking:** Exploring penetration testing, bug bounty, Burp Suite & Metasploit.  
-🔹 **Blockchain Development:** Solidity, Web3.js, Ethereum smart contracts, and decentralized applications (dApps).  
 
 ---
 
